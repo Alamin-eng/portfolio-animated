@@ -36,8 +36,7 @@ const IntroSection = () => {
               <br />
               and other relevant technologies. I have experience
               integrating various <br />
-              advanced React and Node.js libaries, API integration and
-              REST API, TTD, Docker, WordPress, Git, and Github
+              advanced React and Node.js libaries, REST API, TTD, Docker, WordPress and Github
               co-working boards..
             </p>
 

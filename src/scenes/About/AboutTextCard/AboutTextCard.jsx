@@ -20,6 +20,7 @@ const AboutTextCard = () => {
         skills to underprivileged and low-income people volunteered by
         professional developers.
         <br />
+        <br />
         I have been trained in advanced programmeming languages,
         DevOps basics, Github, and Agile software development in a
         project-based collaborative training programme.
