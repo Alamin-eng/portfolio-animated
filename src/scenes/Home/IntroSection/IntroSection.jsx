@@ -2,7 +2,6 @@ import s from './IntroSection.module.scss';
 import avatar from '../../../assets/avatar.svg';
 import { AiFillGithub } from 'react-icons/ai';
 import {
-  FaFacebookSquare,
   FaLinkedinIn,
   FaTelegramPlane,
 } from 'react-icons/fa';
@@ -21,30 +20,35 @@ const IntroSection = () => {
 
           <div className={s.description}>
             <p>
-              I'm a React Native Developer with two years of
-              experience <br />
-              creating mobile apps for the iOS, Android, and Web
-              platforms.
+              I'm a full-stack developer with two years of browser
+              based development experience <br />
+              creating user-friendly, easy-on-the-eyes websites.
             </p>
 
             <p>
               My skills include proficiency in{' '}
               <i>
                 <b className={s.purple}>
-                  TypeScript, React, React Native,
+                  React, Javascript, Node.js, PostgreSQL, HTML and
+                  Tailwind CSS.
                 </b>
               </i>
               <br />
-              and other relevant technologies. I have experience in
+              and other relevant technologies. I have experience
               integrating various <br />
-              third-party libraries, API integration, push
-              notifications and analytics.
+              advanced React and Node.js libaries, API integration and
+              REST API, TTD, Docker, WordPress, Git, and Github
+              co-working boards..
             </p>
 
             <p>
-              My field of Interest's are building new
+              My field of Interest is building new
               <i>
-                <b className={s.purple}> Technologies and Products</b>
+                <b className={s.purple}>
+                  {' '}
+                  technologies and products that can positively impact
+                  people's lives.
+                </b>
               </i>
             </p>
           </div>
@@ -64,7 +68,7 @@ const IntroSection = () => {
         <ul className={s.socialLinks}>
           <li className={s.socialLink}>
             <a
-              href="https://github.com/vsnaichuk"
+              href="https://github.com/Alamin-eng"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
@@ -75,18 +79,7 @@ const IntroSection = () => {
           </li>
           <li className={s.socialLink}>
             <a
-              href="https://www.facebook.com/Snaychuk"
-              target="_blank"
-              rel="noreferrer"
-              className={s.socialIcon}
-              aria-label="facebook"
-            >
-              <FaFacebookSquare />
-            </a>
-          </li>
-          <li className={s.socialLink}>
-            <a
-              href="https://t.me/snaichuk_v"
+              href="mailto:mohammedalaminruben@gmail.com"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
@@ -97,7 +90,7 @@ const IntroSection = () => {
           </li>
           <li className={s.socialLink}>
             <a
-              href="https://www.linkedin.com/in/volodymyr-snaichuk-74a389124/"
+              href="https://www.linkedin.com/in/mohammad-alamin-846376220/"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}

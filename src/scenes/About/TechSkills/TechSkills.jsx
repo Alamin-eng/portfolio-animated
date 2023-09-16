@@ -3,15 +3,20 @@ import {
   DiJavascript1,
   DiReact,
   DiNodejs,
-  DiMongodb,
+  DiPostgresql,
+  DiHtml5,
+  DiCss3,
+  DiDocker,
+  DiWordpress,
+  DiBootstrap,
   DiGit,
   DiSass,
+  DiIllustrator,
 } from 'react-icons/di';
 import {
-  SiTypescript,
-  SiRedux,
-  SiSocketdotio,
-  SiAmazonaws,
+  SiTailwindcss,
+  SiPostman,
+  SiTrello,
 } from 'react-icons/si';
 
 const TechSkills = () => {
@@ -21,7 +26,7 @@ const TechSkills = () => {
         <DiJavascript1 />
       </li>
       <li className={s.techIcon}>
-        <SiTypescript />
+        <SiTailwindcss />
       </li>
       <li className={s.techIcon}>
         <DiNodejs />
@@ -30,19 +35,34 @@ const TechSkills = () => {
         <DiReact />
       </li>
       <li className={s.techIcon}>
-        <DiMongodb />
+        <DiPostgresql />
       </li>
       <li className={s.techIcon}>
         <DiSass />
       </li>
       <li className={s.techIcon}>
-        <SiAmazonaws />
+        <DiCss3 />
       </li>
       <li className={s.techIcon}>
-        <SiRedux />
+        <DiHtml5 />
       </li>
       <li className={s.techIcon}>
-        <SiSocketdotio />
+        <SiPostman />
+      </li>
+      <li className={s.techIcon}>
+        <DiDocker />
+      </li>
+      <li className={s.techIcon}>
+        <DiWordpress />
+      </li>
+      <li className={s.techIcon}>
+        <SiTrello />
+      </li>
+      <li className={s.techIcon}>
+        <DiBootstrap />
+      </li>
+      <li className={s.techIcon}>
+        <DiIllustrator />
       </li>
       <li className={s.techIcon}>
         <DiGit />

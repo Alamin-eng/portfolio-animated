@@ -14,7 +14,7 @@
   --nav-active: #c95bf5;
   --border-primary: #8a49a8;
   --logo-primary: #ce5ff8;
-  --social-icon: #700c86;
+  --social-icon: #860c57;
   --social-shadow: #801f95;
   --preloader: #fafafa;
   --bg-modal: #fafafa;
@@ -28,11 +28,11 @@
 }
 
 .dark {
-  --txt: #fff;
-  --txt-secondary: #cd5ff8;
-  --txt-sec-darcker: #cd5ff8;
+  --txt: #fbf3e3;
+  --txt-secondary: #eb6b0a;
+  --txt-sec-darcker: #009b74;
   --bg-layout-home: linear-gradient(to left, RGB(27 20 41), RGB(20 15 35));
-  --bg-home-section-main: linear-gradient(to bottom left, rgba(17, 16, 16, 0.678), rgba(12, 10, 22, 0.863)), url(../assets/home-bg.jpg);
+  --bg-home-section-main: linear-gradient(to bottom left, rgba(0, 0, 0, 0.678), rgba(45, 2, 153, 0.863)), url(../assets/home-bg.jpg);
   --bg-layout-base: #100D19;
   --bg-primary: #181a27;
   --bg: #623686;
@@ -40,11 +40,11 @@
   --bg-header: rgba(33,32,56,0.84);
   --bg-footer: #0a0416;
   --backdrop: rgba(0, 0, 0, 0.75);
-  --nav-active: #c95bf5;
+  --nav-active: #bf5708;
   --border-primary: #8a49a8;
   --logo-primary: #ce5ff8;
-  --social-icon: #700c86;
-  --social-shadow: #801f95;
+  --social-icon: #8f0129;
+  --social-shadow: #ad0942;
   --preloader: #0c0513;
   --bg-modal: #100D19;
   --modal-border: 1px solid rgba(0,0,0,.125);

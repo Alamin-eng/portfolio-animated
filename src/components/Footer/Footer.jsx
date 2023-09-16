@@ -1,27 +1,26 @@
 import s from './Footer.module.scss';
 import { AiFillGithub } from 'react-icons/ai';
 import {
-  FaFacebookSquare,
   FaLinkedinIn,
   FaTelegramPlane,
 } from 'react-icons/fa';
 
 const Footer = () => {
-  // let date = new Date();
-  // let year = date.getFullYear();
+  let date = new Date();
+  let year = date.getFullYear();
 
   return (
     <div className={s.footer}>
       <div className={s.container}>
         <div className={s.copyright}>
-          <h1>Made with ❤️ by Snaichuk Volodymyr</h1>
+          <h1>Made with ❤️ {year} by Mohammad Alamin</h1>
         </div>
 
         <div className={s.body}>
           <ul className={s.socialIcons}>
             <li>
               <a
-                href="https://github.com/vsnaichuk"
+                href="https://github.com/Alamin-eng"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="github"
@@ -31,17 +30,7 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="https://www.facebook.com/Snaychuk"
-                target="_blank"
-                rel="noreferrer"
-                aria-label="facebook"
-              >
-                <FaFacebookSquare />
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://t.me/snaichuk_v"
+                href="mailto:mohammedalaminruben@gmail.com"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="TelegramPlane"
@@ -51,7 +40,7 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/in/volodymyr-snaichuk-74a389124/"
+                href="https://www.linkedin.com/in/mohammad-alamin-846376220/"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="linkedin"
