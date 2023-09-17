@@ -21,7 +21,7 @@ const AboutTextCard = () => {
         professional developers.
         <br />
         <br />
-        I have been trained in advanced programmeming languages,
+        I have been trained in advanced coding languages,
         DevOps basics, Github, and Agile software development in a
         project-based collaborative training programme.
         <br />

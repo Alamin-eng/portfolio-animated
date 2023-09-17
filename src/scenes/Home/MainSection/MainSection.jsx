@@ -2,7 +2,6 @@ import s from './MainSection.module.scss';
 import homeMainIcon from '../../../assets/home-main.svg';
 import Typewriter from '../../../components/UIElements/Typewriter/Typewriter';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
-
 const MainSection = () => {
   return (
     <section className={s.content}>
@@ -13,7 +12,7 @@ const MainSection = () => {
 
         <h1 className={s.mainTitle}>
           I'M
-          <strong className={s.mainName}> MOHAMMAD ALAMIN</strong>
+          <strong className={s.mainName}> MOHAMMAD ALAMIN </strong>
         </h1>
 
         <div style={{ paddingTop: 50 }}>
@@ -21,7 +20,7 @@ const MainSection = () => {
             strings={[
               'Full-stack Developer',
               'Based in London',
-              "Let's connect"
+              `Let's connect-`
             ]}
             wrapperClassName={s.typewriterWrapper}
             cursorClassName={s.typewriterCursor}

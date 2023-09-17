@@ -1,193 +1,113 @@
 const data = [
   {
     id: '1',
-    title: 'Syntho',
+    title: 'Country app',
     description:
-      'Syntho is an electronic music education application. Connect with like minded users as you build your own custom profile, communicate and share music via the newsfeed.',
+      'A front-end project using React.js, advanced React libraries, and CSS uses useEffect to fetch external API data. The website shows information for all countries. The website is fully responsive and has features like search or selection by continent. The site is also user-friendly to navigate in a light or dark mood.',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671564532/portfolio/projects/Syntho/Screenshot_2022-12-20_at_21.26.17_1_c59hzo.jpg',
-      placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+      src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894037/website%20screen%20shots/Screenshot_from_2023-09-16_20-19-27_fkmj0n.png',
     },
     links: {
-      site: 'https://apps.apple.com/us/app/syntho/id1615419392',
+      site: 'https://cyf-alamin-eng-country-react.netlify.app/',
     },
-    technologies: [
-      '#typescript',
-      '#react-native',
-      '#react-native-web',
-      '#mobx-state-tree',
-      '#expo',
-      '#i18next',
-      '#react-navigation',
-      '#sentry',
-    ],
+    technologies: ['#React', '#Bootstrap', '#Javascript', '#CSS'],
   },
   {
     id: '2',
-    title: 'Minfin - Currency Rates',
+    title: 'TV Shows',
     description:
-      'Minfin Currency - application with all necessary information about currency: from currency rates - to the nearest places where you can exchange currency in your city.',
+      'Developed fully responsive TV show websites show over 300 classic TV series. The site allows the user to navigate to each show by clicking, detailing all episodes for a particular program. The site has many other user-friendly features. Unfortunately, no video is available for API`s restriction and copyright reasons.',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671563302/portfolio/projects/minfin/Screenshot_2022-12-20_at_21.06.43_vl5h6k.jpg',
-      placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+      src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894036/website%20screen%20shots/Screenshot_from_2023-09-16_20-20-24_tzawao.png',
     },
     links: {
-      site: 'https://apps.apple.com/us/app/minfin-currency-rates/id1574863878',
+      site: 'https://cyf-alamin-eng-tv-shows.netlify.app/',
     },
-    technologies: [
-      '#typescript',
-      '#react-native',
-      '#mobx-keystone',
-      '#i18next',
-      '#firebase-analytics',
-      '#google-maps',
-    ],
+    technologies: ['#Javascript', '#HTML5', '#CSS3', '#Bootstrap'],
   },
   {
     id: '3',
-    title: 'Outfitr',
+    title: 'Crypto daily tracker',
     description:
-      'A react native app with animations made with react-native-reanimated. The app is based on the Outfitr - Fashion UI Kit.',
+      'Generated this highly informative crypto currency tracker website allows users to check top 100 crypto currency real-time prices and all past records of a particular currency.',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671562261/portfolio/projects/fashion/Screenshot_2022-12-20_at_20.45.27_peyqly.jpg',
-      placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+      src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894033/website%20screen%20shots/Screenshot_from_2023-09-16_20-29-44_jkbddn.png',
     },
     links: {
-      site: 'https://expo.dev/@v_snaichuk/rn-fashion?serviceType=classic&distribution=expo-go',
-      repo: 'https://github.com/vsnaichuk/fashion-app',
+      site: 'https://crypto-dailytracker.netlify.app/',
+      repo: 'https://github.com/Alamin-eng/Crypto-daily-tracker',
     },
     technologies: [
-      '#typescript',
-      '#react-native',
-      '#expo',
-      '#react-native-reanimated',
-      '#react-navigation',
+      '#Tailwind CSS',
+      '#React',
+      '#Node.js',
+      '#React spring',
     ],
   },
   {
     id: '4',
-    title: 'Apiko Marketplace',
+    title: 'CYF Hotel',
     description:
-      'An online marketplace made with React. The project was developed on 8th Apiko Intensive.',
+      'Implemented a date calculation feature using the React Moment library to accurately count booking dates, resulting in a 30% reduction in booking errors and improved user satisfaction, and added a restaurant order option to satisfy product owner`s demand. The website shows the guest list and has the option to show the guest`s profile.',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348072/portfolio/projects/react-marketplace/apiko-marketplace-lg_xppe9n.jpg',
-      placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+      src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894031/website%20screen%20shots/Screenshot_from_2023-09-16_20-32-03_eik4yy.png',
     },
     links: {
-      site: 'https://apiko-marketplace-app-snaichuk.herokuapp.com/',
-      repo: 'https://github.com/vsnaichuk/apiko-marketplace-app-snaichuk',
+      site: 'https://cyf-alamin-eng-react-hotel-app.netlify.app/',
+      repo: 'https://github.com/Alamin-eng/cyf-hotel-react',
     },
-    technologies: [
-      '#react',
-      '#redux',
-      '#socket.io',
-      '#scss',
-      '#formik',
-      '#react-window',
-      '#restapi',
-    ],
+    technologies: ['#React', '#CSS', '#Bootstrap', '#Moment.js'],
   },
   {
     id: '5',
-    title: 'Places App',
+    title: 'Milestone tracker (Hackathon)',
     description:
-      'A MERN app to let users share their experience of places along with Details. It is user friendly and can be useful to many others.',
+      'Fullstack project. Completed the final project with a team of three developers and created the trainee tracker`s fully responsive website for CYF. The app lets CYF trainees check their progress with their GitHub accounts. I have contributed 80% to the backend and 20% to the frontend of the entire project.',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348070/portfolio/projects/mern-places/mern-places-lg_xf6zom.jpg',
-      placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+      src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694900059/website%20screen%20shots/Screenshot_from_2023-09-16_22-30-32_d9a8rv.png',
     },
     links: {
-      site: 'https://yourplaces-sv.netlify.app/',
-      repo: 'https://github.com/vsnaichuk/MERN-places',
+      site: 'https://github.com/Doris-Siu/in-a-class-of-our-own',
+      repo: 'https://github.com/Doris-Siu/in-a-class-of-our-own',
     },
     technologies: [
-      '#react',
-      '#nodejs',
-      '#express',
-      '#mongodb',
-      '#react-query',
-      '#react-transition-group',
-      '#mongoose',
-      '#jwt',
-      '#aws',
+      '#React',
+      '#Node.js',
+      '#PostgreSQL',
+      '#CSS',
+      '#REST API',
+      '#express.js',
+      '#React-libraries',
     ],
   },
   {
     id: '6',
-    title: 'eCommerce Mobile App',
+    title: 'Prickles & co. USA',
     description:
-      'A Mobile eCommerce application built with React Native that includes cart functionality, push notifications, user authentication and user orders',
+      'A multi-page, fully responsive plant-based website for a USA company, It was part of our class assignment. The page has many front-end features and can always be upgraded to a fullstack site.',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348073/portfolio/projects/rn-shop/rn-shop-lg_fofglf.jpg',
-      placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+      src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894035/website%20screen%20shots/Screenshot_from_2023-09-16_20-25-43_w7im1g.png',
     },
     links: {
-      site: 'https://expo.dev/@v_snaichuk/online-shop-app',
-      repo: 'https://github.com/vsnaichuk/RN-shop',
+      site: 'https://alamin-eng.github.io/responsive-grid-project/',
+      repo: 'https://github.com/Alamin-eng/responsive-grid-project',
     },
-    technologies: [
-      '#react-native',
-      'expo',
-      '#redux',
-      '#redux-toolkit',
-      '#react-navigation',
-      '#nodejs',
-      '#express',
-      '#mongodb',
-    ],
+    technologies: ['#HTML5', '#JQuery', '#CSS3'],
   },
   {
     id: '7',
-    title: 'Places Mobile App',
-    description:
-      'A Mobile application for sharing places that people visit from all over the world. Uses React Native, TypeScript, MobX and Native Device Features',
+    title: 'Portfolio',
+    description: 'My portfolio website, made with love',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348073/portfolio/projects/rn-places/rn-places-lg_ljyikm.jpg',
-      placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+      src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894034/website%20screen%20shots/Screenshot_from_2023-09-16_20-37-32_bvoqfb.png',
     },
     links: {
-      site: 'https://expo.dev/@v_snaichuk/rn-places',
-      repo: 'https://github.com/vsnaichuk/RN-places',
+      site: 'https://mohammad-alamin-portfolio.netlify.app/',
+      repo: '',
+      // placeholderSrc:
+      //   'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
-    technologies: [
-      '#react-native',
-      '#typescript',
-      '#expo',
-      '#mobx',
-      '#sqlite',
-      '#react-native-maps',
-      '#expo-location',
-    ],
-  },
-  {
-    id: '8',
-    title: 'Shopping Cart',
-    description:
-      'Simple eCommerce cart application built with React and TypeScript. Uses SWR hook to fetch the data from the API and Styled Components',
-    image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348073/portfolio/projects/react-shop-cart/rn-shop-cart-lg_w3qxn6.jpg',
-      placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
-    },
-    links: {
-      site: 'https://shopping-cart-sv.netlify.app/',
-      repo: 'https://github.com/vsnaichuk/React-ShoppingCart',
-    },
-    technologies: [
-      '#react',
-      '#typescript',
-      '#material-ui',
-      '#styled-components',
-      '#swr',
-      '#fakestoreapi',
-    ],
+    technologies: ['#React', 'Sass', '#CSS', '#React-libraries'],
   },
 ];
 
