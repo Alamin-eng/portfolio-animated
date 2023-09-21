@@ -23,7 +23,7 @@ const AboutTextCard = () => {
         <br />
         I have been trained in advanced coding languages,
         DevOps basics, Github, and Agile software development in a
-        project-based collaborative training programme.
+        project-based full-stack training programme.
         <br />
         <br />
         Apart from coding, some other activities that I love to do!

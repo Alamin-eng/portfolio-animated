@@ -27,39 +27,6 @@ const data = [
   },
   {
     id: '3',
-    title: 'Crypto daily tracker',
-    description:
-      'Generated this highly informative crypto currency tracker website allows users to check top 100 crypto currency real-time prices and all past records of a particular currency.',
-    image: {
-      src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894033/website%20screen%20shots/Screenshot_from_2023-09-16_20-29-44_jkbddn.png',
-    },
-    links: {
-      site: 'https://crypto-dailytracker.netlify.app/',
-      repo: 'https://github.com/Alamin-eng/Crypto-daily-tracker',
-    },
-    technologies: [
-      '#Tailwind CSS',
-      '#React',
-      '#Node.js',
-      '#React spring',
-    ],
-  },
-  {
-    id: '4',
-    title: 'CYF Hotel',
-    description:
-      'Implemented a date calculation feature using the React Moment library to accurately count booking dates, resulting in a 30% reduction in booking errors and improved user satisfaction, and added a restaurant order option to satisfy product owner`s demand. The website shows the guest list and has the option to show the guest`s profile.',
-    image: {
-      src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894031/website%20screen%20shots/Screenshot_from_2023-09-16_20-32-03_eik4yy.png',
-    },
-    links: {
-      site: 'https://cyf-alamin-eng-react-hotel-app.netlify.app/',
-      repo: 'https://github.com/Alamin-eng/cyf-hotel-react',
-    },
-    technologies: ['#React', '#CSS', '#Bootstrap', '#Moment.js'],
-  },
-  {
-    id: '5',
     title: 'Milestone tracker (Hackathon)',
     description:
       'Fullstack project. Completed the final project with a team of three developers and created the trainee tracker`s fully responsive website for CYF. The app lets CYF trainees check their progress with their GitHub accounts. I have contributed 80% to the backend and 20% to the frontend of the entire project.',
@@ -81,6 +48,39 @@ const data = [
     ],
   },
   {
+    id: '4',
+    title: 'CYF Hotel',
+    description:
+      'Implemented a date calculation feature using the React Moment library to accurately count booking dates, resulting in a 30% reduction in booking errors and improved user satisfaction, and added a restaurant order option to satisfy product owner`s demand. The website shows the guest list and has the option to show the guest`s profile.',
+    image: {
+      src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894031/website%20screen%20shots/Screenshot_from_2023-09-16_20-32-03_eik4yy.png',
+    },
+    links: {
+      site: 'https://cyf-alamin-eng-react-hotel-app.netlify.app/',
+      repo: 'https://github.com/Alamin-eng/cyf-hotel-react',
+    },
+    technologies: ['#React', '#CSS', '#Bootstrap', '#Moment.js'],
+  },
+  {
+    id: '5',
+    title: 'Crypto daily tracker',
+    description:
+      'Generated this highly informative crypto currency tracker website allows users to check top 100 crypto currency real-time prices and all past records of a particular currency.',
+    image: {
+      src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894033/website%20screen%20shots/Screenshot_from_2023-09-16_20-29-44_jkbddn.png',
+    },
+    links: {
+      site: 'https://crypto-dailytracker.netlify.app/',
+      repo: 'https://github.com/Alamin-eng/Crypto-daily-tracker',
+    },
+    technologies: [
+      '#Tailwind CSS',
+      '#React',
+      '#Node.js',
+      '#React spring',
+    ],
+  },
+  {
     id: '6',
     title: 'Prickles & co. USA',
     description:
@@ -99,7 +99,7 @@ const data = [
     title: 'Portfolio',
     description: 'My portfolio website, made with love',
     image: {
-      src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894034/website%20screen%20shots/Screenshot_from_2023-09-16_20-37-32_bvoqfb.png',
+      src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1695273333/website%20screen%20shots/Screenshot_from_2023-09-21_06-09-34_bt0vtl.png',
     },
     links: {
       site: 'https://mohammad-alamin-portfolio.netlify.app/',

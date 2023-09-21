@@ -16,7 +16,6 @@ import {
 import {
   SiTailwindcss,
   SiPostman,
-  SiTrello,
 } from 'react-icons/si';
 
 const TechSkills = () => {
@@ -54,9 +53,6 @@ const TechSkills = () => {
       </li>
       <li className={s.techIcon}>
         <DiWordpress />
-      </li>
-      <li className={s.techIcon}>
-        <SiTrello />
       </li>
       <li className={s.techIcon}>
         <DiBootstrap />
