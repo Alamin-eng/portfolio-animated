@@ -39,9 +39,6 @@ const AboutTextCard = () => {
         <li className={s.aboutActivity}>
           <ImPointRight /> Explore new cities
         </li>
-        <li className={s.aboutActivity}>
-          <ImPointRight /> Football
-        </li>
       </ul>
     </div>
   );
