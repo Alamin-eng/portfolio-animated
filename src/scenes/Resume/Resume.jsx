@@ -8,7 +8,7 @@ import Button from '../../components/UIElements/Button/Button';
 //react-pdf
 import { Document, Page, pdfjs } from 'react-pdf';
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
-import resumePdfPro  from '../Resume/Fullstack CV-WPro.pdf';
+import resumePdfPro  from '../Resume/CS_CV.pdf';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 const resumeLink = resumePdfPro;
