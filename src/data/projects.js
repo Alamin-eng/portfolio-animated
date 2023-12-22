@@ -1,16 +1,23 @@
 const data = [
   {
     id: '1',
-    title: 'Country app',
+    title: 'Free Games Play',
     description:
-      'A front-end project using React.js, advanced React libraries, and CSS uses useEffect to fetch external API data. The website shows information for all countries. The website is fully responsive and has features like search or selection by continent. The site is also user-friendly to navigate in a light or dark mood.',
+      'A project using React.js, advanced React libraries, and CSS uses useEffect to fetch external API data. The website shows information for all countries. The website is fully responsive and has many user-friendly features. The site is also fully responsive on all devices.',
     image: {
-      src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894037/website%20screen%20shots/Screenshot_from_2023-09-16_20-19-27_fkmj0n.png',
+      src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1703217919/Screenshot_from_2023-12-22_04-04-34_pebu3p.png',
     },
     links: {
-      site: 'https://cyf-alamin-eng-country-react.netlify.app/',
+      site: 'https://game-play-mohammad-alamin.netlify.app/',
     },
-    technologies: ['#React', '#Bootstrap', '#Javascript', '#CSS'],
+    technologies: [
+      '#React',
+      '#Router',
+      '#gapi',
+      '#Bootstrap',
+      '#Javascript',
+      'CSS',
+    ],
   },
   {
     id: '2',
@@ -96,8 +103,22 @@ const data = [
   },
   {
     id: '7',
+    title: 'Country app',
+    description:
+      'A front-end project using React.js, advanced React libraries, and CSS uses useEffect to fetch external API data. The website shows information for all countries. The website is fully responsive and has features like search or selection by continent. The site is also user-friendly to navigate in a light or dark mood.',
+    image: {
+      src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894037/website%20screen%20shots/Screenshot_from_2023-09-16_20-19-27_fkmj0n.png',
+    },
+    links: {
+      site: 'https://cyf-alamin-eng-country-react.netlify.app/',
+    },
+    technologies: ['#React', '#Bootstrap', '#Javascript', '#CSS'],
+  },
+  {
+    id: '8',
     title: 'Portfolio',
-    description: 'My portfolio website, made with love',
+    description:
+      'My portfolio website showcases my work and experience.',
     image: {
       src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1695273333/website%20screen%20shots/Screenshot_from_2023-09-21_06-09-34_bt0vtl.png',
     },
