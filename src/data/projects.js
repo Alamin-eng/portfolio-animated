@@ -3,7 +3,7 @@ const data = [
     id: '1',
     title: 'Free Games Play',
     description:
-      'A project using React.js, advanced React libraries, and CSS uses useEffect to fetch external API data. The website shows information for all countries. The website is fully responsive and has many user-friendly features. The site is also fully responsive on all devices.',
+      'A project using React.js, advanced React libraries, and CSS uses useEffect to fetch external API data. The website allows users to navigate to games based on genre and platform and provides external links to play any games for free. The site is also fully responsive on all devices.',
     image: {
       src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1703217919/Screenshot_from_2023-12-22_04-04-34_pebu3p.png',
     },
@@ -125,8 +125,6 @@ const data = [
     links: {
       site: 'https://mohammad-alamin-portfolio.netlify.app/',
       repo: '',
-      // placeholderSrc:
-      //   'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     technologies: ['#React', 'Sass', '#CSS', '#React-libraries'],
   },
