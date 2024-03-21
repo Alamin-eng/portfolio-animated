@@ -11,7 +11,7 @@ const MainSection = () => {
         </h2>
 
         <h1 className={s.mainTitle}>
-          I'M
+          I am
           <strong className={s.mainName}> MOHAMMAD ALAMIN </strong>
         </h1>
 
