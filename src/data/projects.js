@@ -3,7 +3,7 @@ const data = [
     id: '1',
     title: 'Free Games Play',
     description:
-      'A project using React.js, advanced React libraries, and CSS uses useEffect to fetch external API data. The website allows users to navigate to games based on genre and platform and provides external links to play any games for free. The site is also fully responsive on all devices.',
+      'A project using React.js, advanced React Hooks, and CSS. Utilised useEffect hooks to fetch data from external APIs. The website allows users to navigate to games based on genre and platform and provides external links to play any game for free. The site is also fully responsive on all devices.',
     image: {
       src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1703217919/Screenshot_from_2023-12-22_04-04-34_pebu3p.png',
     },
@@ -11,12 +11,12 @@ const data = [
       site: 'https://game-play-mohammad-alamin.netlify.app/',
     },
     technologies: [
-      '#React',
-      '#Router',
+      '#ReactJS',
+      '#Hooks',
       '#gapi',
       '#Bootstrap',
       '#Javascript',
-      'CSS',
+      '#CSS',
     ],
   },
   {
@@ -45,7 +45,7 @@ const data = [
       repo: 'https://github.com/Doris-Siu/in-a-class-of-our-own',
     },
     technologies: [
-      '#React',
+      '#ReactJS',
       '#Node.js',
       '#PostgreSQL',
       '#CSS',
@@ -66,7 +66,7 @@ const data = [
       site: 'https://cyf-alamin-eng-react-hotel-app.netlify.app/',
       repo: 'https://github.com/Alamin-eng/cyf-hotel-react',
     },
-    technologies: ['#React', '#CSS', '#Bootstrap', '#Moment.js'],
+    technologies: ['#ReactJS', '#CSS', '#Bootstrap', '#Moment.js'],
   },
   {
     id: '5',
@@ -82,7 +82,8 @@ const data = [
     },
     technologies: [
       '#Tailwind CSS',
-      '#React',
+      '#ReactJS',
+      '#Hooks',
       '#Node.js',
       '#React spring',
     ],
@@ -112,13 +113,19 @@ const data = [
     links: {
       site: 'https://cyf-alamin-eng-country-react.netlify.app/',
     },
-    technologies: ['#React', '#Bootstrap', '#Javascript', '#CSS'],
+    technologies: [
+      '#ReactJS',
+      '#React Hooks',
+      '#Bootstrap',
+      '#Javascript',
+      '#CSS',
+    ],
   },
   {
     id: '8',
     title: 'Portfolio',
     description:
-      'My portfolio website showcases my work and experience.',
+      'My portfolio website showcases my work and experience. I will welcome any constructive feedback to improve my portfolio site. Please feel free to email me about it.',
     image: {
       src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1695273333/website%20screen%20shots/Screenshot_from_2023-09-21_06-09-34_bt0vtl.png',
     },
@@ -126,7 +133,7 @@ const data = [
       site: 'https://mohammad-alamin-portfolio.netlify.app/',
       repo: '',
     },
-    technologies: ['#React', 'Sass', '#CSS', '#React-libraries'],
+    technologies: ['#ReactJS', 'Sass', '#CSS', '#React-libraries'],
   },
 ];
 
