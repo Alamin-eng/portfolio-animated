@@ -8,7 +8,7 @@ import Button from '../../components/UIElements/Button/Button';
 //react-pdf
 import { Document, Page, pdfjs } from 'react-pdf';
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
-import resumePdfPro  from '../Resume/FSE_CV.pdf';
+import resumePdfPro  from '../Resume/SE_CV_G.pdf';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 const resumeLink = resumePdfPro;
@@ -71,6 +71,7 @@ const Resume = () => {
               width={pdfPageWidth}
               pageNumber={1}
             />
+            
           </Document>
         </div>
       </div>
