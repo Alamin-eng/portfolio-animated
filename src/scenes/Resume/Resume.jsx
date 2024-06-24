@@ -71,7 +71,13 @@ const Resume = () => {
               width={pdfPageWidth}
               pageNumber={1}
             />
-            
+            <hr></hr>
+            <Page
+              onLoadSuccess={removeTextLayerOffset}
+              loading={<LinerProgress />}
+              width={pdfPageWidth}
+              pageNumber={2}
+            />
           </Document>
         </div>
       </div>
