@@ -10,7 +10,7 @@ const AboutTextCard = () => {
         from{' '}
         <span className={s.purple}> London, United Kingdom.</span>
         <br />
-        full-stack engineer with expertise in browser-based
+        Full-stack engineer with expertise in browser-based
         development <br />
         using PERN Stack.
         <br />

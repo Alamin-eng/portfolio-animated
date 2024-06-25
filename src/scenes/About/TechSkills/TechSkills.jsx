@@ -12,6 +12,7 @@ import {
   DiGit,
   DiSass,
   DiIllustrator,
+  DiAws,
 } from 'react-icons/di';
 import {
   SiTailwindcss,
@@ -62,6 +63,9 @@ const TechSkills = () => {
       </li>
       <li className={s.techIcon}>
         <DiGit />
+      </li>
+      <li className={s.techIcon}>
+        <DiAws /> 
       </li>
     </ul>
   );
