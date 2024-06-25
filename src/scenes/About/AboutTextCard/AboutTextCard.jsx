@@ -22,9 +22,9 @@ const AboutTextCard = () => {
         <br />
         <br />
         I have been trained in advanced coding languages. DevOps
-        basics, Github, collaborative hackathon, and Agile software
-        development in the real world project-based full-stack
-        training programme.
+        basics, Github, AWS cloud computing, collaborative hackathon,
+        and Agile software development in the real world project-based
+        full-stack training programme.
         <br />
         <br />
         Apart from coding, some other activities that I love to do!
@@ -35,10 +35,10 @@ const AboutTextCard = () => {
           <ImPointRight /> Digital art and animation
         </li>
         <li className={s.aboutActivity}>
-          <ImPointRight /> Green-peace based activities
+          <ImPointRight /> Explore new cities
         </li>
         <li className={s.aboutActivity}>
-          <ImPointRight /> Explore new cities
+          <ImPointRight /> Cooking
         </li>
       </ul>
     </div>
