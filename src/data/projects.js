@@ -21,7 +21,7 @@ const data = [
   },
   {
     id: '2',
-    title: 'TV Shows',
+    title: 'TV Shows(old version)',
     description:
       'Developed fully responsive TV show websites show over 300 classic TV series. The site allows the user to navigate to each show by clicking, detailing all episodes for a particular program. The site has many other user-friendly features. Unfortunately, no video is available for API`s restriction and copyright reasons.',
     image: {
