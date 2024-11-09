@@ -21,16 +21,16 @@ const data = [
   },
   {
     id: '2',
-    title: 'TV Shows(old version)',
+    title: 'Classic TV Shows(react version)',
     description:
       'Developed fully responsive TV show websites show over 300 classic TV series. The site allows the user to navigate to each show by clicking, detailing all episodes for a particular program. The site has many other user-friendly features. Unfortunately, no video is available for API`s restriction and copyright reasons.',
     image: {
       src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894036/website%20screen%20shots/Screenshot_from_2023-09-16_20-20-24_tzawao.png',
     },
     links: {
-      site: 'https://cyf-alamin-eng-tv-shows.netlify.app/',
+      site: 'https://classic-tvshows-tvmaze.netlify.app/',
     },
-    technologies: ['#Javascript', '#HTML5', '#CSS3', '#Bootstrap'],
+    technologies: ['#React', '#HTML5', '#CSS3', '#Bootstrap'],
   },
   {
     id: '3',
@@ -123,6 +123,19 @@ const data = [
   },
   {
     id: '8',
+    title: 'TV Shows(old version)',
+    description:
+      'Developed fully responsive TV show websites show over 300 classic TV series. The site allows the user to navigate to each show by clicking, detailing all episodes for a particular program. The site has many other user-friendly features. Unfortunately, no video is available for API`s restriction and copyright reasons.',
+    image: {
+      src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894036/website%20screen%20shots/Screenshot_from_2023-09-16_20-20-24_tzawao.png',
+    },
+    links: {
+      site: 'https://cyf-alamin-eng-tv-shows.netlify.app/',
+    },
+    technologies: ['#Javascript', '#HTML5', '#CSS3', '#Bootstrap'],
+  },
+  {
+    id: '9',
     title: 'Portfolio',
     description:
       'My portfolio website showcases my work and experience. I will welcome any constructive feedback to improve my portfolio site. Please feel free to email me about it.',
