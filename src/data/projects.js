@@ -3,7 +3,7 @@ const data = [
     id: '1',
     title: 'Free Games Play',
     description:
-      'A project using React.js, advanced React Hooks, and CSS. Utilised useEffect hooks to fetch data from external APIs. The website allows users to navigate to games based on genre and platform and provides external links to play any game for free. The site is also fully responsive on all devices.',
+      'A project made entirely on React, advanced React Hooks, and CSS. Utilised useEffect hooks to fetch data from external APIs. The website allows users to navigate to games based on genre and platform and provides external links to play any game for free. The site is also fully responsive on all devices.',
     image: {
       src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1703217919/Screenshot_from_2023-12-22_04-04-34_pebu3p.png',
     },
@@ -51,7 +51,6 @@ const data = [
       '#CSS',
       '#REST API',
       '#express.js',
-      '#React-libraries',
     ],
   },
   {
