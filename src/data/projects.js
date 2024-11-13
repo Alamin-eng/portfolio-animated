@@ -36,7 +36,7 @@ const data = [
     id: '3',
     title: 'Milestone tracker (Hackathon)',
     description:
-      'Fullstack project. Completed the final project with a team of three developers and created the trainee tracker`s fully responsive website for CYF. The app lets CYF trainees check their progress with their GitHub accounts. I have contributed 80% to the backend and 20% to the frontend of the entire project.',
+      'Fullstack hackathon project. Completed the final project with a team of three developers and created the trainee tracker`s fully responsive website for CYF. The app lets CYF trainees check their progress with their GitHub accounts. Worked on both frontend and backend development, ensuring the web app met accessibility standards and provided an intuitive user experience.',
     image: {
       src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694900059/website%20screen%20shots/Screenshot_from_2023-09-16_22-30-32_d9a8rv.png',
     },
