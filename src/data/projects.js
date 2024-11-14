@@ -12,7 +12,6 @@ const data = [
     },
     technologies: [
       '#ReactJS',
-      '#Hooks',
       '#gapi',
       '#Bootstrap',
       '#Javascript',
@@ -82,7 +81,7 @@ const data = [
     technologies: [
       '#Tailwind CSS',
       '#ReactJS',
-      '#Hooks',
+      'React Hooks',
       '#Node.js',
       '#React spring',
     ],
