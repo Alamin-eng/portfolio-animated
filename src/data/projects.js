@@ -3,7 +3,7 @@ const data = [
     id: '1',
     title: 'Free Games Play',
     description:
-      'A project made entirely on React, advanced React Hooks, and CSS. Utilised useEffect hooks to fetch data from external APIs. The website allows users to navigate to games based on genre and platform and provides external links to play any game for free. The site is also fully responsive on all devices.',
+      'This project is built entirely with React, advanced React Hooks, and CSS. It leverages useEffect to fetch data from external APIs. The website enables users to explore games by genre and platform, and provides external links to play them for free. Additionally, the site is fully responsive across all devices.',
     image: {
       src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1703217919/Screenshot_from_2023-12-22_04-04-34_pebu3p.png',
     },
@@ -22,7 +22,7 @@ const data = [
     id: '2',
     title: 'Classic TV Shows(react version)',
     description:
-      'Modern version of fully responsive classic TV shows website allows the user to navigate to each show by clicking, detailing all episodes for a particular program. The site has many other user-friendly features. Unfortunately, no video is available for API`s restriction and copyright reasons.',
+      'The modern version of a fully responsive, classic TV shows website allows users to navigate to each show by clicking, with detailed information on all episodes for a particular program. The site also includes many other user-friendly features. Unfortunately, no videos are available due to API restrictions and copyright reasons.',
     image: {
       src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1731278137/Screenshot_203_j3twzp.png',
     },
