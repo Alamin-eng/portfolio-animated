@@ -35,7 +35,7 @@ const data = [
     id: '3',
     title: 'Milestone tracker (Hackathon)',
     description:
-      'Fullstack hackathon project. Completed the final project with a team of three developers and created the trainee tracker`s fully responsive website for CYF. The app lets CYF trainees check their progress with their GitHub accounts. Worked on both frontend and backend development, ensuring the web app met accessibility standards and provided an intuitive user experience.',
+      'This full-stack hackathon project was completed with a team of three developers. We created a fully responsive trainee tracker website for CYF. The app allows CYF trainees to track their progress through their GitHub accounts. I worked on both the front-end and back-end development, ensuring the web app met accessibility standards and provided an intuitive user experience.',
     image: {
       src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694900059/website%20screen%20shots/Screenshot_from_2023-09-16_22-30-32_d9a8rv.png',
     },
@@ -70,7 +70,7 @@ const data = [
     id: '5',
     title: 'Crypto daily tracker',
     description:
-      'Generated this highly informative crypto currency tracker website allows users to check top 100 crypto currency real-time prices and all past records of a particular currency.',
+      'This is a comprehensive and user-friendly cryptocurrency tracker website designed to provide real-time updates on the prices of the top 100 cryptocurrencies. The platform offers a seamless interface that allows users to access not only the current market prices but also a comprehensive record of past performance for each currency, helping users make informed decisions. Whether you are a beginner or an experienced investor, this website provides the necessary tools to track cryptocurrency trends efficiently and stay up to date with the crypto market.',
     image: {
       src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894033/website%20screen%20shots/Screenshot_from_2023-09-16_20-29-44_jkbddn.png',
     },
