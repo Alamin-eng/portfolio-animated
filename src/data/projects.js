@@ -90,7 +90,7 @@ const data = [
     id: '6',
     title: 'Prickles & co. USA',
     description:
-      'A multi-page, fully responsive plant-based website for a USA company, It was part of our class assignment. The page has many front-end features and can always be upgraded to a fullstack site.',
+      'A multi-page, fully responsive plant-based products website for a U.S. company. It was part of our class assignment. The site includes many front-end features and can easily be upgraded to a full-stack site',
     image: {
       src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894035/website%20screen%20shots/Screenshot_from_2023-09-16_20-25-43_w7im1g.png',
     },
