@@ -123,7 +123,7 @@ const data = [
     id: '8',
     title: 'TV Shows(old version)',
     description:
-      'A fully responsive TV show websites show over 300 TV series. The site allows the user to navigate to each show, detailing all episodes for a particular program. Unfortunately, no video is available for API`s restriction and copyright reasons.',
+      'A fully responsive TV show website showcases over 300 TV series. The site allows users to navigate to each show, detailing all episodes for a particular program. Unfortunately, no videos are available due to API restrictions and copyright reasons.',
     image: {
       src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894036/website%20screen%20shots/Screenshot_from_2023-09-16_20-20-24_tzawao.png',
     },
