@@ -135,7 +135,7 @@ const data = [
     id: '9',
     title: 'Portfolio',
     description:
-      'My portfolio website showcases a collection of my projects, reflecting my skills, creativity, and growth as a software developer. Each project demonstrates my approach to problem-solving and design, highlighting my skills, processes, and results. I welcome any constructive feedback to help me improve, so please do not hesitate to reach out via email with your thoughts or suggestions.',
+      'Welcome to my portfolio! This website is a reflection of my journey as a software developer. I started with a pre-built portfolio app, customized it to fit my personal style, and filled it with projects that represent my skills and growth. Each project shows how I tackle problems, design solutions, and implement them effectively. I always welcome any constructive feedback to help me improve, so please do not hesitate to reach out via email with your thoughts or suggestions.',
     image: {
       src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1695273333/website%20screen%20shots/Screenshot_from_2023-09-21_06-09-34_bt0vtl.png',
     },
