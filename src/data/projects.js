@@ -15,7 +15,7 @@ const data = [
       '#gapi',
       '#Bootstrap',
       '#Javascript',
-      '#CSS',
+      '#CSS3',
     ],
   },
   {
@@ -47,7 +47,7 @@ const data = [
       '#ReactJS',
       '#Node.js',
       '#PostgreSQL',
-      '#CSS',
+      '#CSS3',
       '#REST API',
       '#express.js',
     ],
