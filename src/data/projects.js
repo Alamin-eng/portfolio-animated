@@ -70,7 +70,7 @@ const data = [
     id: '5',
     title: 'Crypto daily tracker',
     description:
-      'This is a comprehensive and user-friendly cryptocurrency tracker website designed to provide real-time updates on the prices of the top 100 cryptocurrencies. The platform offers a seamless interface that allows users to access not only the current market prices but also a comprehensive record of past performance for each currency, helping users make informed decisions. Whether you are a beginner or an experienced investor, this website provides the necessary tools to track cryptocurrency trends efficiently and stay up to date with the crypto market.',
+      'This user-friendly cryptocurrency tracker provides real-time updates on the top 100 cryptocurrencies. With a seamless interface, users can access current prices and historical data to make informed decisions. Designed for beginners and experienced investors alike, it helps efficiently track trends and stay updated on the crypto market.',
     image: {
       src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894033/website%20screen%20shots/Screenshot_from_2023-09-16_20-29-44_jkbddn.png',
     },
@@ -80,7 +80,7 @@ const data = [
     },
     technologies: [
       '#Tailwind CSS',
-      '#ReactJS',
+      '#React',
       'React Hooks',
       '#Node.js',
       '#React spring',
