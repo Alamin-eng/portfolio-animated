@@ -20,7 +20,7 @@ const data = [
   },
   {
     id: '2',
-    title: 'Classic TV Shows(react version)',
+    title: 'Classic TV Shows(React version under development)',
     description:
       'The modern version of a fully responsive, classic TV shows website allows users to navigate to each show by clicking, with detailed information on all episodes for a particular program. The site also includes many other user-friendly features. Unfortunately, no videos are available due to API restrictions and copyright reasons.',
     image: {
