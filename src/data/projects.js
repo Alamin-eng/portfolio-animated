@@ -104,7 +104,7 @@ const data = [
     id: '7',
     title: 'Country app',
     description:
-      'A fully responsive front-end application built with React.js, leveraging advanced React libraries and CSS for a seamless user experience. The app uses the useEffect hook to fetch and display comprehensive data on countries from an external API. Users can search for countries by name, filter results by continent, and toggle between light and dark modes for improved accessibility and personalization. With an intuitive design, the site adapts beautifully across devices, ensuring a smooth browsing experience for all users.',
+      'A fully responsive front-end application built with React, leveraging advanced React libraries and CSS for a seamless user experience. Users can search for countries by name to explore countries and toggle between light and dark modes for improved accessibility and personalization. With an intuitive design, the site adapts beautifully across devices, ensuring a smooth browsing experience for all users.',
     image: {
       src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1694894037/website%20screen%20shots/Screenshot_from_2023-09-16_20-19-27_fkmj0n.png',
     },
