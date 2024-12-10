@@ -115,7 +115,7 @@ const data = [
       '#ReactJS',
       '#Bootstrap',
       '#Javascript',
-      '#CSS',
+      '#CSS3',
     ],
   },
   {
@@ -129,7 +129,7 @@ const data = [
     links: {
       site: 'https://cyf-alamin-eng-tv-shows.netlify.app/',
     },
-    technologies: ['#Javascript', '#HTML5', '#CSS3', '#Bootstrap'],
+    technologies: ['#Javascript ES6', '#HTML5', '#CSS3', '#Bootstrap'],
   },
   {
     id: '9',
