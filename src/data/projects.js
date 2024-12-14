@@ -143,7 +143,7 @@ const data = [
       site: 'https://mohammad-alamin-portfolio.netlify.app/',
       repo: '',
     },
-    technologies: ['#React', '#Sass', '#CSS', '#Cloudinary'],
+    technologies: ['#React', '#Sass', '#CSS3', '#Cloudinary'],
   },
 ];
 
