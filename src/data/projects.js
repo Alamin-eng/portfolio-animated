@@ -29,7 +29,7 @@ const data = [
     links: {
       site: 'https://classic-tvshows-tvmaze.netlify.app/',
     },
-    technologies: ['#React', '#HTML5', '#CSS3', '#Bootstrap'],
+    technologies: ['#React', '#HTML5', '#CSS3', '#Bootstrap', 'Data-analysis'],
   },
   {
     id: '3',
