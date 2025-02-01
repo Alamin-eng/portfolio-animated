@@ -4,6 +4,7 @@ import {
   DiReact,
   DiNodejs,
   DiPostgresql,
+  DiPython,
   DiHtml5,
   DiCss3,
   DiDocker,
@@ -36,6 +37,9 @@ const TechSkills = () => {
       </li>
       <li className={s.techIcon}>
         <DiPostgresql />
+      </li>
+      <li className={s.techIcon}>
+        <DiPython />
       </li>
       <li className={s.techIcon}>
         <DiSass />
