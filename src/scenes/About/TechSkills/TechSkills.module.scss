@@ -5,6 +5,7 @@
 }
 
 .techIcon {
+  position: relative;
   font-size: 4rem;
   margin: 15px;
   padding: 2rem 4rem;
@@ -15,13 +16,29 @@
   border-radius: 5px;
   display: table;
   box-shadow: 4px 5px 4px 3px rgba(89, 4, 168, 0.137);
-  overflow: hidden;
+  overflow: visible;
   transition: all 0.4s ease 0s;
   line-height: 0;
 
   &:hover {
     transform: scale(1.05);
-    overflow: hidden;
-    border: 2.2px solid rgba(197, 115, 230, 0.883);
+    border: 2.3px solid rgba(197, 115, 230, 0.883);
+    // overflow: hidden; part of original code, but it hides the tooltip, so I commented it out
   }
+  .tooltip {
+  position: absolute;
+  bottom: -20px;
+  left: 50%;
+  top: 85%; 
+  transform: translateX(-50%);
+  background: transparent;
+  color: var(--txt-secondary);
+  font-weight: bolder;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  opacity: 0;
+}
+&:hover .tooltip{
+  opacity: 1;
+}
 }

@@ -26,18 +26,23 @@ const TechSkills = () => {
     <ul className={s.container}>
       <li className={s.techIcon}>
         <DiJavascript1 />
+        <span className={s.tooltip}>JavaScript</span>
       </li>
       <li className={s.techIcon}>
         <SiTailwindcss />
+        <span className={s.tooltip}>Tailwind CSS</span>
       </li>
       <li className={s.techIcon}>
         <DiNodejs />
+        <span className={s.tooltip}>Node.js</span>
       </li>
       <li className={s.techIcon}>
         <DiReact />
+        <span className={s.tooltip}>React</span>
       </li>
       <li className={s.techIcon}>
         <DiPostgresql />
+        <span className={s.tooltip}>PostgreSQL</span>
       </li>
       <li className={s.techIcon}>
         <DiPython />
