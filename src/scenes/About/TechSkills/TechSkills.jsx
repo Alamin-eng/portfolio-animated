@@ -14,6 +14,7 @@ import {
   DiSass,
   DiIllustrator,
   DiAws,
+  DiJira,
 } from 'react-icons/di';
 import {
   SiTailwindcss,
@@ -70,6 +71,9 @@ const TechSkills = () => {
       </li>
       <li className={s.techIcon}>
         <DiAws /> 
+      </li>
+      <li className={s.techIcon}>
+        <DiJira /> 
       </li>
     </ul>
   );
