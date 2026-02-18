@@ -66,15 +66,19 @@ const TechSkills = () => {
       </li>
       <li className={s.techIcon}>
         <DiDocker />
+        <span className={s.tooltip}>Docker</span>
       </li>
       <li className={s.techIcon}>
         <DiWordpress />
+        <span className={s.tooltip}>WordPress</span>
       </li>
       <li className={s.techIcon}>
         <DiBootstrap />
+        <span className={s.tooltip}>Bootstrap</span>
       </li>
       <li className={s.techIcon}>
         <DiIllustrator />
+        <span className={s.tooltip}>Adobe Illustrator</span>
       </li>
       <li className={s.techIcon}>
         <DiGit />
