@@ -82,9 +82,11 @@ const TechSkills = () => {
       </li>
       <li className={s.techIcon}>
         <DiGit />
+        <span className={s.tooltip}>Git</span>
       </li>
       <li className={s.techIcon}>
-        <DiAws /> 
+        <DiAws />
+        <span className={s.tooltip}>AWS</span>
       </li>
       <li className={s.techIcon}>
         <DiJira /> 
