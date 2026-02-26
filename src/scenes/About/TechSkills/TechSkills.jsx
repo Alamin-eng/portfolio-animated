@@ -90,6 +90,7 @@ const TechSkills = () => {
       </li>
       <li className={s.techIcon}>
         <DiJira /> 
+        <span className={s.tooltip}>Jira</span>
       </li>
     </ul>
   );
