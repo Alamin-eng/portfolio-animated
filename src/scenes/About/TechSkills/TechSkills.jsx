@@ -13,8 +13,10 @@ import {
   DiGit,
   DiSass,
   DiIllustrator,
+  DiPhotoshop,
   DiAws,
   DiJira,
+
 } from 'react-icons/di';
 import {
   SiTailwindcss,
@@ -79,6 +81,10 @@ const TechSkills = () => {
       <li className={s.techIcon}>
         <DiIllustrator />
         <span className={s.tooltip}>Adobe Illustrator</span>
+      </li>
+      <li className={s.techIcon}>
+        <DiPhotoshop />
+        <span className={s.tooltip}>Adobe Photoshop</span>
       </li>
       <li className={s.techIcon}>
         <DiGit />
