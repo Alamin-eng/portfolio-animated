@@ -99,6 +99,10 @@ const TechSkills = () => {
         <DiJira /> 
         <span className={s.tooltip}>Jira</span>
       </li>
+      <li className={s.techIcon}>
+        <DiLinux />
+        <span className={s.tooltip}>Linux</span>
+      </li>
     </ul>
   );
 };
