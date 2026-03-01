@@ -10,12 +10,13 @@ import {
   DiDocker,
   DiWordpress,
   DiBootstrap,
-  DiGit,
+  DiGithub,
   DiSass,
   DiIllustrator,
   DiPhotoshop,
   DiAws,
   DiJira,
+  DiLinux,
 
 } from 'react-icons/di';
 import {
@@ -87,8 +88,8 @@ const TechSkills = () => {
         <span className={s.tooltip}>Adobe Photoshop</span>
       </li>
       <li className={s.techIcon}>
-        <DiGit />
-        <span className={s.tooltip}>Git</span>
+        <DiGithub />
+        <span className={s.tooltip}>GitHub</span>
       </li>
       <li className={s.techIcon}>
         <DiAws />
