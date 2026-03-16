@@ -11,12 +11,12 @@ import {
   DiWordpress,
   DiBootstrap,
   DiGithub,
-  DiSass,
   DiIllustrator,
   DiPhotoshop,
   DiAws,
   DiJira,
   DiLinux,
+  DiGoogleCloudPlatform
 
 } from 'react-icons/di';
 import {
@@ -99,6 +99,10 @@ const TechSkills = () => {
       <li className={s.techIcon}>
         <DiLinux />
         <span className={s.tooltip}>Linux</span>
+      </li>
+      <li className={s.techIcon}>
+        <DiGoogleCloudPlatform />
+        <span className={s.tooltip}>Google Cloud Platform</span>
       </li>
     </ul>
   );
