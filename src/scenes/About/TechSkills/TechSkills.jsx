@@ -1,6 +1,6 @@
 import s from './TechSkills.module.scss';
 import {
-  DiJavascript1,
+  DiJavascript,
   DiReact,
   DiNodejs,
   DiPostgresql,
@@ -16,7 +16,8 @@ import {
   DiAws,
   DiJira,
   DiLinux,
-  DiGoogleCloudPlatform
+  DiGoogleCloudPlatform,
+  
 
 } from 'react-icons/di';
 import {
@@ -28,7 +29,7 @@ const TechSkills = () => {
   return (
     <ul className={s.container}>
       <li className={s.techIcon}>
-        <DiJavascript1 />
+        <DiJavascript />
         <span className={s.tooltip}>JavaScript</span>
       </li>
       <li className={s.techIcon}>
