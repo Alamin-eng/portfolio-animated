@@ -7,7 +7,6 @@ import {
   DiPython,
   DiHtml5,
   DiCss3,
-  DiBootstrap,
   DiDocker,
   DiWordpress,
   DiBootstrap,
@@ -55,8 +54,8 @@ const TechSkills = () => {
       </li>
       
       <li className={s.techIcon}>
-        <DiBootstrap />
-        <span className={s.tooltip}>Bootstrap</span>
+        <DiCss3 />
+        <span className={s.tooltip}>CSS3</span>
       </li>
       <li className={s.techIcon}>
         <DiHtml5 />
