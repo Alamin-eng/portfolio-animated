@@ -62,7 +62,7 @@ const TechSkills = () => {
         <span className={s.tooltip}>HTML5</span>
       </li>
       <li className={s.techIcon}>
-        <SiPostman />
+        <DiPostman />
         <span className={s.tooltip}>Postman</span>
       </li>
       <li className={s.techIcon}>
@@ -105,10 +105,7 @@ const TechSkills = () => {
         <DiGoogleCloudPlatform />
         <span className={s.tooltip}>Google Cloud Platform</span>
       </li>
-      <li className={s.techIcon}>
-        <DiPostman />
-        <span className={s.tooltip}>Postman</span>
-      </li>
+      
     </ul>
   );
 };
