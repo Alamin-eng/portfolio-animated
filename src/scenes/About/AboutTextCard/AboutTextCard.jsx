@@ -10,35 +10,43 @@ const AboutTextCard = () => {
         from{' '}
         <span className={s.purple}> London, United Kingdom.</span>
         <br />
-        Full-stack engineer with expertise in browser-based
-        development <br />
-        using PERN Stack.
+        <br />
+
+        I am an IT-focused professional with a background in full-stack
+        development and hands-on experience working with JavaScript, React,
+        Node.js, SQL, and Python.
+
         <br />
         <br />
-        I am a graduate from the Code Your Future institution in
-        London, UK. An institution teaches coding skills to
-        underprivileged and low-income people volunteered by
-        professional developers.
+
+        Through my training, projects, and practical experience, I have worked on
+        building web applications, troubleshooting technical issues, and working
+        with data and APIs in real-world scenarios.
+
         <br />
         <br />
-        I have been trained in advanced coding languages. DevOps
-        basics, Github, AWS cloud computing, collaborative hackathon,
-        and Agile software development in the real world project-based
-        full-stack training programme.
+
+        I am particularly interested in working within IT environments where I
+        can contribute to system support, application reliability, and continuous
+        improvement while developing my technical skills further.
+
         <br />
         <br />
-        Apart from coding, some other activities that I love to do!
+
+        I have experience working in agile, team-based settings and I value clear
+        communication, problem solving, and adaptability in fast-paced
+        environments.
       </p>
 
       <ul>
         <li className={s.aboutActivity}>
-          <ImPointRight /> Digital art and animation
+          <ImPointRight /> Problem solving and troubleshooting
         </li>
         <li className={s.aboutActivity}>
-          <ImPointRight /> Explore new cities
+          <ImPointRight /> Building and improving web applications
         </li>
         <li className={s.aboutActivity}>
-          <ImPointRight /> Cooking
+          <ImPointRight /> Learning new technologies and tools
         </li>
       </ul>
     </div>
