@@ -13,7 +13,7 @@ const AboutTextCard = () => {
         <br />
         I am an IT-focused professional with a background in
         full-stack development and hands-on experience working with
-        JavaScript, React, Node.js, SQL, and Python.
+        JavaScript, React, CSS3, Node.js, SQL, and Python.
         <br />
         <br />
         Through my training and project work, I have built and
