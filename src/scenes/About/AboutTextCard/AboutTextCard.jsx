@@ -24,15 +24,21 @@ const AboutTextCard = () => {
         <br />
         <br />
         I have practical exposure to API testing, deployment
-        processes, and maintaining reliable application performance. I
-        am particularly interested in roles where I can contribute to
-        system support, application stability, and continuous
-        improvement.
+        processes, and working with applications to identify and
+        resolve issues. I have experience collaborating on shared
+        codebases using GitHub and working within agile team
+        environments.
         <br />
-        <br />I value clear communication, problem solving, and
-        adaptability, and I am looking to grow within an IT
-        environment where I can develop my skills further while
-        contributing effectively to a team.
+        <br />
+        I value clear communication, problem solving, and
+        adaptability, and I approach technical challenges with a
+        practical and structured mindset.
+        <br />
+        <br />
+        I am looking to begin my career in an IT-related role where I
+        can apply my skills, contribute to real-world projects, and
+        continue developing within a professional environment.
+        <br />
       </p>
 
       <ul>
