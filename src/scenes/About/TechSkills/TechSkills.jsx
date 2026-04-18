@@ -17,7 +17,7 @@ import {
   DiJira,
   DiLinux,
   DiGoogleCloudPlatform,
-  DiPostman,
+  
 
 } from 'react-icons/di';
 import {
@@ -62,7 +62,7 @@ const TechSkills = () => {
         <span className={s.tooltip}>HTML5</span>
       </li>
       <li className={s.techIcon}>
-        <DiPostman />
+        <SiPostman />
         <span className={s.tooltip}>Postman</span>
       </li>
       <li className={s.techIcon}>
