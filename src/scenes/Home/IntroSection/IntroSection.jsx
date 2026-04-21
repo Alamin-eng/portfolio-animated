@@ -29,7 +29,7 @@ const IntroSection = () => {
               My skills include proficiency in{' '}
               <i>
                 <b className={s.purple}>
-                  React, Javascript, Node.js, PostgreSQL, HTML, CSS and AI
+                  Javascript, React, Node.js, PostgreSQL, HTML, CSS3 and AI
                 </b>
               </i>
               <br />
