@@ -20,9 +20,9 @@ const IntroSection = () => {
 
           <div className={s.description}>
             <p>
-              I'm a full-stack developer with two years of browser
-              based development experience <br />
-              creating user-friendly, easy-on-the-eyes websites.
+              I have a background in full-stack development with experience building
+              and maintaining web applications using JavaScript, React, and modern
+              web technologies.
             </p>
 
             <p>
