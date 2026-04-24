@@ -1,10 +1,7 @@
 import s from './IntroSection.module.scss';
 import avatar from '../../../assets/avatar.svg';
 import { AiFillGithub } from 'react-icons/ai';
-import {
-  FaLinkedinIn,
-  FaTelegramPlane,
-} from 'react-icons/fa';
+import { FaLinkedinIn, FaTelegramPlane } from 'react-icons/fa';
 import Tilt from 'react-parallax-tilt';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 
@@ -20,23 +17,23 @@ const IntroSection = () => {
 
           <div className={s.description}>
             <p>
-              I have a background in full-stack development with experience building
-              and maintaining web applications using JavaScript, React, and modern
-              web technologies.
+              I have a background in full-stack development, building
+              and maintaining responsive web applications using
+              JavaScript, React, and modern web technologies.
             </p>
 
             <p>
-              My skills include proficiency in{' '}
+              My experience includes working with{' '}
               <i>
                 <b className={s.purple}>
-                  Javascript, React, Node.js, PostgreSQL, HTML, CSS3 and AI
+                  JavaScript, React, Node.js, PostgreSQL, HTML, and
+                  CSS
                 </b>
               </i>
-              <br />
-              and other relevant technologies. I have experience
-              integrating various <br />
-              advanced React and Node.js libaries, REST API, TTD, Docker, WordPress and Github
-              co-working boards..
+              , integrating REST APIs, and collaborating on projects
+              using GitHub within agile environments. I am also
+              familiar with Docker, CMS platforms, and test-driven
+              development practices.
             </p>
 
             <p>
