@@ -26,7 +26,7 @@ const IntroSection = () => {
               My experience includes working with{' '}
               <i>
                 <b className={s.purple}>
-                  JavaScript, React, Node.js, PostgreSQL, HTML, and
+                  JavaScript, React, Node.js, PostgreSQL, HTML, Wordpress and
                   CSS
                 </b>
               </i>
