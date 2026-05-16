@@ -26,12 +26,16 @@ const IntroSection = () => {
               My experience includes working with{' '}
               <i>
                 <b className={s.purple}>
-                  JavaScript, React, Node.js, PostgreSQL, HTML, and CSS
+                  JavaScript, React, Node.js, PostgreSQL, HTML, and
+                  CSS
                 </b>
               </i>
               , integrating REST APIs, and collaborating on projects
               using GitHub within agile environments. I am also
-              familiar with Docker, CMS platforms like WordPress, deployment, and test-driven development practices.
+              familiar with Docker, CMS platforms like WordPress,
+              deployment, test-driven development practices, and
+              modern AI tools to support research, problem solving,
+              and development workflows.
             </p>
 
             <p>
