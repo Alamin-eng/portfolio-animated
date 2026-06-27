@@ -8,7 +8,7 @@ import Button from '../../components/UIElements/Button/Button';
 //react-pdf
 import { Document, Page, pdfjs } from 'react-pdf';
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
-import resumePdfPro from './resume.pdf';
+import resumePdfPro from './Resume.pdf';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 const resumeLink = resumePdfPro;
@@ -48,7 +48,7 @@ const Resume = () => {
         </div>
 
         <Button
-          style={{ margin: 'auto', width: '15rem' }}
+          style={{ margin: 'auto', width: '16rem' }}
           className="primary"
           href={resumeLink}
           target="_blank"
