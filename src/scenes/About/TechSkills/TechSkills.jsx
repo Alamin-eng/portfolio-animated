@@ -17,7 +17,7 @@ import {
   DiJira,
   DiLinux,
   DiGoogleCloudPlatform,
-  
+  DiReactNative,
 
 } from 'react-icons/di';
 import {
@@ -43,6 +43,10 @@ const TechSkills = () => {
       <li className={s.techIcon}>
         <DiReact />
         <span className={s.tooltip}>React</span>
+      </li>
+      <li className={s.techIcon}>
+        <DiReactNative />
+        <span className={s.tooltip}>React Native</span>
       </li>
       <li className={s.techIcon}>
         <DiPostgresql />
