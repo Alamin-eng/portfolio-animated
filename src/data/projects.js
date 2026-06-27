@@ -150,7 +150,7 @@ const data = [
   description:
     'A cross-platform Quran reading application built with React Native and Expo. The app allows users to browse all 114 Surahs, switch between multiple Arabic Quran fonts, read alongside English translations, and navigate the Quran by Mushaf page layout. I implemented local caching with AsyncStorage to improve performance and offline usability, integrated multiple REST APIs for Quran text and translations, and designed a clean, accessible interface optimised for mobile devices.',
   image: {
-    src: 'YOUR_SCREENSHOT_URL',
+    src: 'https://res.cloudinary.com/dthoibanb/image/upload/v1782556812/website%20screen%20shots/Screenshot_337_uj0b42.png',
   },
   links: {
     site: 'https://quran-your-way.netlify.app/',
