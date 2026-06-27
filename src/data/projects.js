@@ -144,6 +144,28 @@ const data = [
     },
     technologies: ['#React', '#Sass', '#CSS3', '#Cloudinary'],
   },
+  {
+  id: '10',
+  title: 'Quran Reader Mobile App',
+  description:
+    'A cross-platform Quran reading application built with React Native and Expo. The app allows users to browse all 114 Surahs, switch between multiple Arabic Quran fonts, read alongside English translations, and navigate the Quran by Mushaf page layout. I implemented local caching with AsyncStorage to improve performance and offline usability, integrated multiple REST APIs for Quran text and translations, and designed a clean, accessible interface optimised for mobile devices.',
+  image: {
+    src: 'YOUR_SCREENSHOT_URL',
+  },
+  links: {
+    site: 'https://quran-your-way.netlify.app/',
+    repo: 'https://github.com/Alamin-eng/my-quran-app',
+  },
+  technologies: [
+    '#React Native',
+    '#Expo',
+    '#JavaScript',
+    '#REST API',
+    '#AsyncStorage',
+    '#Expo Font',
+    '#Mobile UI',
+  ],
+},
 ];
 
 export default data;
