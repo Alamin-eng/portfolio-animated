@@ -5,11 +5,11 @@ const GithubActivity = () => {
   const colorTheme = {
     background: 'transparent',
     text: '#ffffff',
-    level4: '#8400b8',
-    level3: '#b22ff4',
-    level2: '#b265f6',
-    level1: '#c084f5',
-    level0: '#ecd9fc',
+    level4: '#216e39',
+    level3: '#30a14e',
+    level2: '#40c463',
+    level1: '#9be9a8',
+    level0: '#333333',
   };
   return (
     <div className={s.container}>
