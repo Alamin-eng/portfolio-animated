@@ -80,11 +80,11 @@ const TechSkills = () => {
       </li>
       <li className={s.techIcon}>
         <DiIllustrator />
-        <span className={s.tooltip}>Adobe Illustrator</span>
+        <span className={s.tooltip}>AdobeIllustrator</span>
       </li>
       <li className={s.techIcon}>
         <DiPhotoshop />
-        <span className={s.tooltip}>Adobe Photoshop</span>
+        <span className={s.tooltip}>AdobePhotoshop</span>
       </li>
       <li className={s.techIcon}>
         <DiGithub />
