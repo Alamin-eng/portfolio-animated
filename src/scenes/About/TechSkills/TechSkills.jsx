@@ -104,7 +104,7 @@ const TechSkills = () => {
       </li>
       <li className={s.techIcon}>
         <DiGoogleCloudPlatform />
-        <span className={s.tooltip}>Google Cloud Platform</span>
+        <span className={s.tooltip}>Google Cloud </span>
       </li>
       
     </ul>
