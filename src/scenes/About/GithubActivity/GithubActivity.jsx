@@ -6,10 +6,10 @@ const GithubActivity = () => {
     background: 'transparent',
     text: '#ffffff',
     level4: '#00de30',
-    level3: '#079f30',
+    level3: '#069a2d',
     level2: '#06891a',
     level1: '#0b440c',
-    level0: '#162218',
+    level0: '#1d2a1e',
   };
   return (
     <div className={s.container}>
