@@ -5,7 +5,7 @@ const GithubActivity = () => {
   const colorTheme = {
     background: 'transparent',
     text: '#ffffff',
-    level4: '#00de30',
+    level4: '#01df31',
     level3: '#069a2d',
     level2: '#06891a',
     level1: '#0b440c',
